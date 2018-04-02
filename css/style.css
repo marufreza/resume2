@@ -1,0 +1,146 @@
+body{
+	width: 960px;
+	margin:0 auto;
+	background: #8080802e;
+}
+.full-sc{
+	overflow: hidden;
+	
+}
+.left-section{
+	width: 15%;
+	background-color: purple;
+	height: 130vh;
+	float: left;
+}
+.right-section{
+	width: 85%;
+	background-color: white;
+	height: 130vh;
+	float:  left;
+}
+.right-section h1{
+
+margin:  0;
+
+font-size: 45px;
+
+padding: 20px 0 10px 15px;
+
+color: purple;
+}
+.right-section h3{
+	
+margin: 0px;
+	
+color: #800080bf;
+	
+padding: 20px 0 10px 15px;
+	
+text-transform:  uppercase;
+	
+font-size: 20px;
+}
+
+.class-1{
+	column-count: 3;
+	margin:  0;
+	padding: 5px 0 15px 15px;
+}
+
+
+.class-1 li{
+    list-style:  none;
+}
+.para-1{
+	margin: 0;
+	padding: 5px 0 5px 15px;
+}
+.right-section .cv-title{
+    color:  rebeccapurple;
+    font-size:  20px;
+    text-transform:  uppercase;
+    padding: 30px 0 10px 15px;
+}
+
+.experience h5{
+    margin: 0;
+    padding-left: 15px;
+    font-size: 15px;
+}
+.experience p{
+	
+margin: 0;
+	
+padding: 10px 0 5px 15px;
+}
+
+.class-2{
+	
+margin:  0;
+}
+
+
+.experience h5{
+    margin: 0;
+    padding-left: 15px;
+    font-size: 15px;
+}
+.experience p{
+	
+margin: 0;
+	
+padding: 10px 0 5px 15px;
+}
+
+.class-2{
+	margin: 0;
+}
+.right-section .cv-title-1{
+    color:  rebeccapurple;
+    font-size:  20px;
+    text-transform:  uppercase;
+	padding: 30px 0 10px 15px;}
+
+.first{
+    margin: 0;
+    padding: 5px 0 10px 15px;
+}
+	
+	
+    
+
+
+.class-2{
+	margin: 0;
+}
+
+.right-section .cv-title-2{
+	color:  rebeccapurple;
+    font-size:  20px;
+    text-transform:  uppercase;
+	padding: 30px 0 10px 15px;}
+}
+
+.right-section .cv-title-3{
+	color:  rebeccapurple;
+    font-size:  20px;
+    text-transform:  uppercase;
+	padding: 30px 0 10px 15px;}
+}
+
+
+.secend{
+    margin: 0;
+    padding: 5px 0 10px 15px;
+}
+.right-section .cv-title-4{
+	color:  rebeccapurple;
+    font-size:  20px;
+    text-transform:  uppercase;
+	padding: 30px 0 10px 15px;
+}
+
+.cv-title-4 .third{
+
+}
